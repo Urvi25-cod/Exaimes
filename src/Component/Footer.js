@@ -63,7 +63,7 @@ const Footer = () => {
             G–1/704, royal industries, Laskana– Kholvad Road, Kholvad, Surat–394190.
           </p>
           <p className="mt-2 text-gray-400">
-            Mobile: +971 555941915
+            Mobile: +91 9274429689
           </p>
 
           {/* Social Media Icons */}

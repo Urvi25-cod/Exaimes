@@ -41,7 +41,7 @@ const Header = () => {
             <span role="img" aria-label="phone">
               📞
             </span>
-            <span>+91 93138 84963</span>
+            <span>+91 9925679651</span>
           </div>
           <div className="flex items-center space-x-1 mt-1 md:mt-0">
             <span role="img" aria-label="email">

@@ -60,7 +60,7 @@ const handleSubmit = async (e) => {
           <div className="bg-white shadow-md rounded-lg p-6">
             <h3 className="text-lg font-bold mb-4">Call To Us</h3>
             <p className="text-gray-600 mb-2">We are available 24/7, 7 days a week.</p>
-            <p className="text-gray-800 font-bold">Phone: +91 98247 30301</p>
+            <p className="text-gray-800 font-bold">Phone: +91 9601358451</p>
 
             <h3 className="text-lg font-bold mt-6 mb-4">Write To Us</h3>
             <p className="text-gray-600 mb-2">Emails:</p>
